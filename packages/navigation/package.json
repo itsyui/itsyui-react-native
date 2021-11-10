@@ -1,0 +1,58 @@
+{
+	"name": "@itsy-ui/navigation-native",
+	"version": "1.0.0",
+	"main": "dist/npm/itsy-ui-navigation-native.js",
+	"jsdelivr": "dist/cdn/itsy-ui-navigation-native.js",
+	"module": "dist/es/itsy-ui-navigation-native.esm.js",
+	"jsnext:main": "dist/es/itsy-ui-navigation-native.esm.js",
+	"unpkg": "dist/cdn/itsy-ui-navigation-native.js",
+	"amd": "dist/amd/itsy-ui-navigation-native.amd.js",
+	"typings": "dist/types/index.d.ts",
+	"description": "ItsyUI navigation library",
+	"author": "ItsyUI",
+	"keywords": [
+		"react",
+		"react-native",
+		"react-dom",
+		"itsyui",
+		"itsy-ui",
+		"components",
+		"navigation"
+	],
+	"publishConfig": {
+		"access": "public"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/itsyui/itsyui-react-native.git",
+		"directory": "packages/navigation"
+	},
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/itsyui/itsyui-react-native/issues"
+	},
+	"homepage": "https://www.itsyui.com/",
+	"files": [
+		"dist/*",
+		"license.md"
+	],
+	"dependencies": {
+		"classnames": "^2.2.5",
+		"prop-types": "15.7.2",
+		"rx-lite": "^4.0.8",
+		"xstate": "4.0.0-1",
+		"@itsy-ui/core": "^1.0.0",
+		"axios": "^0.21.1",
+		"@itsy-ui/utils": "^1.0.0"
+	},
+	"devDependencies": {
+		"react": "^16.9.0",
+		"react-native": "^0.64.1",
+		"react-dom": "^16.9.0",
+		"react-router-dom": "5.1.2"
+	},
+	"scripts": {
+		"build": "rollup -c ../../rollup.config.js",
+		"build:prod": "NODE_ENV=production rollup -c ../../rollup.config.js"
+	}
+}
