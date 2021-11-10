@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/feedback-native",
-	"version": "1.0.0",
+	"version": "1.0.1-alpha.0",
 	"main": "dist/npm/itsy-ui-feedback-native.js",
 	"jsdelivr": "dist/cdn/itsy-ui-feedback-native.js",
 	"module": "dist/es/itsy-ui-feedback-native.esm.js",
@@ -37,11 +37,11 @@
 		"license.md"
 	],
 	"dependencies": {
+		"@itsy-ui/core": "^1.0.0",
 		"classnames": "^2.2.5",
 		"prop-types": "15.7.2",
 		"rx-lite": "^4.0.8",
-		"xstate": "4.0.0-1",
-		"@itsy-ui/core": "^1.0.0"
+		"xstate": "4.0.0-1"
 	},
 	"devDependencies": {
 		"@types/node": "^12.0.0",

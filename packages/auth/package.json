@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/auth-native",
-	"version": "1.0.0",
+	"version": "1.0.1-alpha.0",
 	"main": "dist/npm/itsy-ui-auth-native.js",
 	"jsdelivr": "dist/cdn/itsy-ui-auth-native.js",
 	"module": "dist/es/itsy-ui-auth-native.esm.js",
@@ -38,13 +38,13 @@
 		"license.md"
 	],
 	"dependencies": {
+		"@itsy-ui/core": "^1.0.0",
+		"@itsy-ui/utils": "^1.0.0",
+		"axios": "^0.21.1",
 		"classnames": "^2.2.5",
 		"prop-types": "15.7.2",
 		"rx-lite": "^4.0.8",
-		"xstate": "4.0.0-1",
-		"@itsy-ui/core": "^1.0.0",
-		"axios": "^0.21.1",
-		"@itsy-ui/utils": "^1.0.0"
+		"xstate": "4.0.0-1"
 	},
 	"devDependencies": {
 		"react": "^16.9.0",
