@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/form-native",
-	"version": "1.0.1-alpha.0",
+	"version": "1.0.0",
 	"main": "dist/npm/itsy-ui-form-native.js",
 	"jsdelivr": "dist/cdn/itsy-ui-form-native.js",
 	"module": "dist/es/itsy-ui-form-native.esm.js",

@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/freshui-native-theme",
-	"version": "1.0.1-alpha.0",
+	"version": "1.0.0",
 	"main": "dist/npm/itsy-ui-freshui-native-theme.js",
 	"jsdelivr": "dist/cdn/itsy-ui-freshui-native-theme.js",
 	"module": "dist/es/itsy-ui-freshui-native-theme.esm.js",

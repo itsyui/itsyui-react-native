@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/navigation-native",
-	"version": "1.0.1-alpha.0",
+	"version": "1.0.0",
 	"main": "dist/npm/itsy-ui-navigation-native.js",
 	"jsdelivr": "dist/cdn/itsy-ui-navigation-native.js",
 	"module": "dist/es/itsy-ui-navigation-native.esm.js",

@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/data-native",
-	"version": "1.0.1-alpha.0",
+	"version": "1.0.0",
 	"main": "dist/npm/itsy-ui-data-native.js",
 	"jsdelivr": "dist/cdn/itsy-ui-data-native.js",
 	"module": "dist/es/itsy-ui-data-native.esm.js",

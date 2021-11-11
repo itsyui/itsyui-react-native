@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/auth-native",
-	"version": "1.0.1-alpha.0",
+	"version": "1.0.0",
 	"main": "dist/npm/itsy-ui-auth-native.js",
 	"jsdelivr": "dist/cdn/itsy-ui-auth-native.js",
 	"module": "dist/es/itsy-ui-auth-native.esm.js",

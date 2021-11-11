@@ -1,6 +1,6 @@
 {
 	"name": "@itsy-ui/common-native",
-	"version": "1.0.1-alpha.0",
+	"version": "1.0.0",
 	"main": "dist/npm/itsy-ui-common-native.js",
 	"jsdelivr": "dist/cdn/itsy-ui-common-native.js",
 	"module": "dist/es/itsy-ui-common-native.esm.js",
